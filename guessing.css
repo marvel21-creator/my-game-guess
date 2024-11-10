@@ -3,9 +3,11 @@
             background-color: darkgrey;
             padding: 20px;
             margin-top: 50px;
+          font-size: 16px;
         }
         button {
             border-radius: 5px;
+             font-size: 16px;
         }
         .bt:hover {
             background-color: aqua;
